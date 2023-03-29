@@ -1,6 +1,8 @@
 # Super-Trunfo-Lol
 
-Aplicação desenvolvida para treinar conceitos de javascript
+Aplicação desenvolvida para treinar conceitos de javascript.
+
+<hr>
 
 O jogo é por rodadas, onde a cada rodada será sorteada uma carta (8 cartas ao total) aleatória onde, para ganhar, você deve escolher pelo maior valor de poder do atributo escolhido, se o valor do atributo da carta da máquina (escolhida aleatóriamente) for menor que o atributo que você escolheu da sua carta, você ganha a rodada.
 
