@@ -39,6 +39,27 @@ Selecione o atributo que você acha que irá ganhar da máquina e em seguida cli
 ![image](https://user-images.githubusercontent.com/73304785/228669517-fd1189ae-2f65-46d8-8cc5-e3cab398b9f9.png)
 
 
+# Tecnologias Utilizadas
+
+• HTML
+
+• CSS
+
+• JavaScript
+
+# Autor
+
+<b>Matheus de Souza Carvalho</b>
+
+
+Linkedin: 
+https://www.linkedin.com/in/matheusscarvalho/
+
+
+E-mail:
+matheusdocarvalho@gmail.com
+
+
 
 
 
