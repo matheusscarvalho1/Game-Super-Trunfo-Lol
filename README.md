@@ -1,4 +1,4 @@
-# Super-Trunfo-Lol
+# Game-Super-Trunfo-Lol
 
 Aplicação desenvolvida para treinar conceitos de javascript.
 
@@ -60,10 +60,3 @@ https://www.linkedin.com/in/matheusscarvalho/
 
 E-mail:
 matheusdocarvalho@gmail.com
-
-
-
-
-
-
-
